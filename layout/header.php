@@ -131,7 +131,7 @@
     </div>
     <div class = "navRest">
      <div class = "navItem3"><a href="index.html"></a>About us</div>
-     <div class = "navItem4"><a href="menu.html">Menu</div></a>
+     <div class = "navItem4"><a href="ex1.php">exercise1</div></a>
      <div class = "navItem5"><a href="cats.html">Cats</div></a>
      <div class = "navItem6"><a href="contact.html">Contact</div></a>
     </div>
